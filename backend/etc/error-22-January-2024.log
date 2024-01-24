@@ -1,0 +1,51 @@
+INFO: 2024/01/22 15:00:11 /home/ernie/CommunityProyects/josmer_proyect/josmer_backend/main.go:51: debugmode:  false
+INFO: 2024/01/22 15:00:11 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2024/01/22 15:00:29 /home/ernie/CommunityProyects/josmer_proyect/josmer_backend/main.go:51: debugmode:  false
+INFO: 2024/01/22 15:00:29 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2024/01/22 15:03:19 /home/ernie/CommunityProyects/josmer_proyect/josmer_backend/main.go:51: debugmode:  false
+INFO: 2024/01/22 15:03:19 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2024/01/22 15:15:50 /home/ernie/CommunityProyects/josmer_proyect/josmer_backend/main.go:51: debugmode:  false
+INFO: 2024/01/22 15:15:50 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2024/01/22 17:08:13 /home/josmer/Escritorio/josmer_backend/main.go:51: debugmode:  false
+INFO: 2024/01/22 17:08:13 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+ERROR: 2024/01/22 17:10:22 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 17:16:19 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 17:16:31 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 17:16:41 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 17:17:47 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 17:21:49 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 17:53:09 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 17:55:19 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 17:56:55 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:06:45 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:07:07 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:10:47 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:19:14 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:19:44 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:22:30 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:24:56 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:28:07 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:32:42 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:36:02 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:39:59 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:40:05 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:48:18 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 18:48:23 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 19:50:10 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 19:50:24 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 19:52:48 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 19:54:00 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 19:54:33 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+INFO: 2024/01/22 21:28:30 /home/josmer/Escritorio/josmer_backend/main.go:51: debugmode:  false
+INFO: 2024/01/22 21:28:30 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+ERROR: 2024/01/22 21:30:29 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:32:42 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:33:33 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:33:40 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:34:07 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:35:16 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:41:15 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:41:29 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:42:27 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:48:34 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
+ERROR: 2024/01/22 21:51:11 /home/josmer/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present

@@ -1,0 +1,9 @@
+extend type Mutation{
+    createCostumer(input: CreateCostumer): Costumer
+    updateCostumer(input: UpdateCostumer): Costumer
+    deleteCostumer(_id: ID!): Costumer
+}
+
+
+
+

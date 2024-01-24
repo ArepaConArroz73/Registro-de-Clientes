@@ -1,0 +1,27 @@
+INFO: 2024/01/20 15:57:18 /home/ernie/CommunityProyects/josmer_proyect/Proyecto/backend/josmer/go_backend/main.go:51: debugmode:  false
+INFO: 2024/01/20 15:57:18 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2024/01/20 15:58:09 /home/ernie/CommunityProyects/josmer_proyect/Proyecto/backend/josmer/go_backend/main.go:51: debugmode:  false
+INFO: 2024/01/20 15:58:09 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+ERROR: 2024/01/20 15:58:09 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:324: http server start error: listen tcp :8443: bind: address already in use
+ERROR: 2024/01/20 15:58:09 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:316: http server start error: listen tcp :8081: bind: address already in use
+INFO: 2024/01/20 15:58:15 /home/ernie/CommunityProyects/josmer_proyect/Proyecto/backend/josmer/go_backend/main.go:51: debugmode:  false
+INFO: 2024/01/20 15:58:15 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+ERROR: 2024/01/20 15:58:15 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:324: http server start error: listen tcp :8443: bind: address already in use
+ERROR: 2024/01/20 15:58:15 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:316: http server start error: listen tcp :8081: bind: address already in use
+INFO: 2024/01/20 15:58:20 /home/ernie/CommunityProyects/josmer_proyect/Proyecto/backend/josmer/go_backend/main.go:51: debugmode:  false
+INFO: 2024/01/20 15:58:20 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+ERROR: 2024/01/20 15:58:20 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:316: http server start error: listen tcp :8081: bind: address already in use
+ERROR: 2024/01/20 15:58:20 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:324: http server start error: listen tcp :8443: bind: address already in use
+INFO: 2024/01/20 15:58:50 /home/ernie/CommunityProyects/josmer_proyect/Proyecto/backend/josmer/go_backend/main.go:51: debugmode:  false
+INFO: 2024/01/20 15:58:50 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+ERROR: 2024/01/20 15:58:50 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:316: http server start error: listen tcp :8081: bind: address already in use
+ERROR: 2024/01/20 15:58:50 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:324: http server start error: listen tcp :8443: bind: address already in use
+INFO: 2024/01/20 15:59:08 /home/ernie/CommunityProyects/josmer_proyect/Proyecto/backend/josmer/go_backend/main.go:51: debugmode:  false
+INFO: 2024/01/20 15:59:08 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+ERROR: 2024/01/20 15:59:08 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:324: http server start error: listen tcp :8443: bind: address already in use
+INFO: 2024/01/20 15:59:35 /home/ernie/CommunityProyects/josmer_proyect/Proyecto/backend/josmer/go_backend/main.go:51: debugmode:  false
+INFO: 2024/01/20 15:59:35 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+ERROR: 2024/01/20 15:59:35 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:316: http server start error: listen tcp :8081: bind: address already in use
+INFO: 2024/01/20 16:04:11 /home/ernie/CommunityProyects/josmer_proyect/Proyecto/backend/josmer/go_backend/main.go:51: debugmode:  false
+INFO: 2024/01/20 16:04:11 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+ERROR: 2024/01/20 16:05:06 /home/ernie/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:126: http: named cookie not present
